@@ -18,9 +18,9 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
 
 # Prerequisites
 
-    Python 3.x
-    Pillow (pip install pillow)
-    bitarray (pip install bitarray)
+- Python 3.x
+- Pillow (pip install pillow)
+- bitarray (pip install bitarray)
 
 # Usage
   - Encoding a Script into an Image
@@ -54,15 +54,15 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
 
 # Project Structure
 
-    image_hide.py: Main script containing both encoding and decoding functionality.
-    pdf_hide.py: Other main script containing both encoding and decoding functionality.
+image_hide.py: Main script containing both encoding and decoding functionality.
+pdf_hide.py: Other main script containing both encoding and decoding functionality.
 
 # Error Handling
 
-    Checks if the input files exist.
-    Verifies if the image has sufficient space to embed the script.
-    Handles I/O errors during file operations.
+Checks if the input files exist.
+Verifies if the image has sufficient space to embed the script.
+Handles I/O errors during file operations.
 
 # Contributions
 
-    Contributions are welcome! Feel free to open issues or submit pull requests with improvements and bug fixes.
+Contributions are welcome! Feel free to open issues or submit pull requests with improvements and bug fixes.
