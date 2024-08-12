@@ -54,8 +54,8 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
 
 # Project Structure
 
-image_hide.py: Main script containing both encoding and decoding functionality.
-pdf_hide.py: Other main script containing both encoding and decoding functionality.
+- image_hide.py: Main script containing both encoding and decoding functionality.
+- pdf_hide.py: Other main script containing both encoding and decoding functionality.
 
 # Error Handling
 
