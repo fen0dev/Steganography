@@ -4,17 +4,17 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
 
 # Features
 
-    Encoding Scripts: Hide any script file within an image by embedding its binary data into the image's pixels.
-    Decoding Scripts: Extract the hidden script from an image and save it as a file.
-    Error Handling: Includes error checks to ensure files exist, images are large enough to hold the script, and more.
-    Command-Line Interface: Easy-to-use command-line interface for encoding and decoding operations.
+- Encoding Scripts: Hide any script file within an image by embedding its binary data into the image's pixels.
+- Decoding Scripts: Extract the hidden script from an image and save it as a file.
+- Error Handling: Includes error checks to ensure files exist, images are large enough to hold the script, and more.
+- Command-Line Interface: Easy-to-use command-line interface for encoding and decoding operations.
 
 # Technologies Used
 
-    Python: The main programming language used for the implementation.
-    Pillow (PIL): Python Imaging Library used for image processing.
-    bitarray: Library used for efficient manipulation of binary data.
-    argparse: Python module for parsing command-line arguments.
+- Python: The main programming language used for the implementation.
+- Pillow (PIL): Python Imaging Library used for image processing.
+- bitarray: Library used for efficient manipulation of binary data.
+- argparse: Python module for parsing command-line arguments.
 
 # Prerequisites
 
