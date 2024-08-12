@@ -23,7 +23,7 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
     bitarray (pip install bitarray)
 
 # Usage
-  / Encoding a Script into an Image
+  - Encoding a Script into an Image
 
         python3 image_hide.py encode input_image.png output_image.png script_to_hide.py
 
@@ -31,7 +31,7 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
     output_image.png: Path where the output image with the hidden script will be saved.
     script_to_hide.py: Path to the script file that you want to hide.
 
-  / Decoding a Script from an Image
+  - Decoding a Script from an Image
 
 
         python3 image_hide.py decode input_image.png output_script.py
@@ -48,7 +48,7 @@ ImageScriptHider is a Python-based project that demonstrates how to hide and ext
 
 - Decoding Example
 
-    python3 image_hide.py decode encoded_image.png extracted_script.py
+        python3 image_hide.py decode encoded_image.png extracted_script.py
 
     This command extracts the hidden script from encoded_image.png and saves it as extracted_script.py.
 
